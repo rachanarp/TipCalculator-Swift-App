@@ -8,6 +8,10 @@
 
 import UIKit
 
+struct GlobalConstants {
+    static let DefaultTipPercentageKey = "default_tip_percent"
+}
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
